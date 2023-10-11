@@ -4,7 +4,7 @@ Demo you cant see [here](https://ecommerce-store-onlinestore.vercel.app/)
 
 This is the Store, Admin Dashboard [here](https://github.com/Andryushik/ecommerce-admin)
 
-An e-commerce website template, made for self education, is a powerful tool for creating and launching online sales with minimal effort. It provides users with a unique platform for selling products and services over the internet, offering a multitude of features and capabilities. Here's a brief description of the template:
+An e-commerce website template is a powerful tool for creating and launching online sales with minimal effort. It provides users with a unique platform for selling products and services over the internet, offering a multitude of features and capabilities. Here's a brief description of the template:
 
 Product Catalog: The template allows you to create a structured catalog of products with the ability to add images, descriptions, specifications, and prices. This helps customers easily find and select the products they're interested in.
 
